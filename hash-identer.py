@@ -1,5 +1,5 @@
 import os
-BLUE = "\033[0;34m"
+BLUE = "\033[1;34m"
 os.system("clear")
 banner1 ="""
     dMP dMP .aMMMb  .dMMMb  dMP dMP                        
