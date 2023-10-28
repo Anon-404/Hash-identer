@@ -17,7 +17,7 @@ banner2 = """
 def banner():
 	print(BLUE+"#"*64)
 	print(banner1,banner2)
-	print("Made by Anon404")
+	print("powerd by team Anon404 \ncreated by MRZ724")
 	print()
 	print("#"*64)
 banner()
