@@ -13,7 +13,7 @@ For debian based linux os
 
 ```bash
 sudo apt install python3 -y
-git clone https://github.com/MRZ724/Hash-identer
+git clone https://github.com/Anon-404/Hash-identer
 cd Hash-identer
 python3 hash-identer.py
 ```
@@ -22,7 +22,7 @@ For termux
 ```bash
 pkg install python -y
 pkg install git -y
-git clone https://github.com/MRZ724/Hash-identer  
+git clone https://github.com/Anon-404/Hash-identer  
 cd Hash-identer  
 python hash-identer.py
 ```
@@ -31,7 +31,7 @@ For arch based linux
 
 ```bash
 sudo pacman -Sy python3 -y  
-git clone https://github.com/MRZ724/Hash-identer  
+git clone https://github.com/Anon-404/Hash-identer  
 cd Hash-identer  
 python3 hash-identer.py
 ```
